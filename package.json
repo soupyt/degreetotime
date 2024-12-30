@@ -1,0 +1,25 @@
+{
+  "name": "degreetotime",
+  "version": "1.0.0",
+  "description": "Converts a clock graduated in 360 degrees to conventional time",
+  "main": "degreetotime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soupyt/degreetotime.git"
+  },
+  "keywords": [
+    "node.js",
+    "utility",
+    "clock",
+    "time"
+  ],
+  "author": "Richard Whitehead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soupyt/degreetotime/issues"
+  },
+  "homepage": "https://github.com/soupyt/degreetotime#readme"
+}
